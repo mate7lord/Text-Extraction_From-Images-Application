@@ -23,5 +23,5 @@ In this project, we will be working on extracting text from images. After extrac
 9. Step 9 : run application by command- python app.py
 10. Step 10 : you have sample_data folder where you can get images to test.
 
-(result.png)
+![Nama Gambar](result.png)
 
